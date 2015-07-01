@@ -1,6 +1,7 @@
 swagger-springmvc-demo
 ======================
-[![Build Status](https://travis-ci.org/adrianbk/swagger-springmvc-demo.png?branch=master)](https://travis-ci.org/adrianbk/swagger-springmvc-demo) 
+[![Build Status](https://drone.io/github.com/paulkling/swagger-springmvc-demo/status.png)](https://drone.io/github.com/paulkling/swagger-springmvc-demo/latest)
+
 
 A set of apps that test or demo swagger-spring mvc https://github.com/martypitt/swagger-springmvc/
 
